@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/SonPhanPortfolio.io/static/css/main.1b80f98b.css",
+    "main.js": "/SonPhanPortfolio.io/static/js/main.1ea95b12.js",
+    "static/js/787.fb771931.chunk.js": "/SonPhanPortfolio.io/static/js/787.fb771931.chunk.js",
+    "static/media/sonphan.png": "/SonPhanPortfolio.io/static/media/sonphan.50e223ef36e4132f4c23.png",
+    "static/media/color-sharp.png": "/SonPhanPortfolio.io/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/SonPhanPortfolio.io/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/header-img.svg": "/SonPhanPortfolio.io/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/SONPHAN_RESUME_MAIN.pdf": "/SonPhanPortfolio.io/static/media/SONPHAN_RESUME_MAIN.579c84425956c5c27587.pdf",
+    "static/media/CentraNo2-Bold.ttf": "/SonPhanPortfolio.io/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/SonPhanPortfolio.io/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/SonPhanPortfolio.io/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/banner-bg.png": "/SonPhanPortfolio.io/static/media/banner-bg.8393b7c4d2112524b289.png",
+    "static/media/revicons.eot": "/SonPhanPortfolio.io/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/SonPhanPortfolio.io/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/SonPhanPortfolio.io/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter2.svg": "/SonPhanPortfolio.io/static/media/meter2.1b8f416eccd1ee162218b8528a1c5cdc.svg",
+    "static/media/meter1.svg": "/SonPhanPortfolio.io/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
+    "static/media/meter3.svg": "/SonPhanPortfolio.io/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
+    "static/media/logo.svg": "/SonPhanPortfolio.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/nav-icon4.svg": "/SonPhanPortfolio.io/static/media/nav-icon4.3d625382938947008e5f932eb4262236.svg",
+    "static/media/expense.svg": "/SonPhanPortfolio.io/static/media/expense.d8f7a307cc8bd86eb0cb15d5327ec890.svg",
+    "static/media/gmail.svg": "/SonPhanPortfolio.io/static/media/gmail.c27f9daae906d2450ef482c2fd1f0218.svg",
+    "static/media/logoS.svg": "/SonPhanPortfolio.io/static/media/logoS.5c0e60c787d57ecb0b3f88c9535cadce.svg",
+    "static/media/database.svg": "/SonPhanPortfolio.io/static/media/database.f21a078e50654043b61c1cdf77b58b69.svg",
+    "index.html": "/SonPhanPortfolio.io/index.html",
+    "static/media/sentimental.svg": "/SonPhanPortfolio.io/static/media/sentimental.4636761b8d96049946bc74d6620d6528.svg",
+    "static/media/nav-icon1.svg": "/SonPhanPortfolio.io/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/search.svg": "/SonPhanPortfolio.io/static/media/search.0f5056dd9c3dec20a96acf80ea0d7408.svg",
+    "static/media/job.svg": "/SonPhanPortfolio.io/static/media/job.d59f9baabc6b6ca6dd4c680bc055b449.svg",
+    "static/media/bracket.svg": "/SonPhanPortfolio.io/static/media/bracket.e6422b5948fa015ac0a58f8263e71b60.svg",
+    "static/media/logoP.svg": "/SonPhanPortfolio.io/static/media/logoP.3188a9d67fba2a2ec13380567ea21af5.svg",
+    "main.1b80f98b.css.map": "/SonPhanPortfolio.io/static/css/main.1b80f98b.css.map",
+    "main.1ea95b12.js.map": "/SonPhanPortfolio.io/static/js/main.1ea95b12.js.map",
+    "787.fb771931.chunk.js.map": "/SonPhanPortfolio.io/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b80f98b.css",
+    "static/js/main.1ea95b12.js"
+  ]
+}
