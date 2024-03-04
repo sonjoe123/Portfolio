@@ -23,7 +23,7 @@ export const Projects = () => {
         This project involves analyzing sentiment from Twitter data using machine learning techniques. It aims to process large volumes of tweets in real-time, extracting valuable insights and sentiments from social media conversations. By leveraging machine learning algorithms, the project identifies patterns and trends in Twitter data to understand public opinion, sentiment shifts, and emerging topics. The goal is to provide actionable insights for businesses, marketers, and researchers to make informed decisions and understand public sentiment on various topics and brands.
         <br />
         <br />
-        Visit my website: <a href="https://master.d3bzjn1cpskicc.amplifyapp.com/?fbclid=IwAR2DX_oB35pdd3Ec_9qfwAnlr5PHDa3WoTklE-qFwwUcyzr0NwN-_GoMqTg">Website Link</a>
+        Visit my website: <a href="https://github.com/sonjoe123/Twitter-Sentimental-Analysis">Website Link</a>
       </div>
     ),
   },
@@ -38,7 +38,7 @@ export const Projects = () => {
         To use the Bracket Checker, simply input your code snippet into the tool, and it will quickly identify any bracket-related errors, helping you ensure the integrity and correctness of your code.
         <br />
         <br />
-        Visit my website: <a href="https://master.d3bzjn1cpskicc.amplifyapp.com/?fbclid=IwAR2DX_oB35pdd3Ec_9qfwAnlr5PHDa3WoTklE-qFwwUcyzr0NwN-_GoMqTg">Website Link</a>
+        Visit my website: <a href="https://github.com/sonjoe123/Bracket-Checker">Website Link</a>
       </div>
     ),
   },
@@ -56,7 +56,7 @@ export const Projects = () => {
         To use the Search Engine, simply enter your search query into the provided search bar, and the tool will return a list of relevant articles, helping you find the information you need quickly and effectively.
         <br />
         <br />
-        Visit my website: <a href="https://master.d3bzjn1cpskicc.amplifyapp.com/?fbclid=IwAR2DX_oB35pdd3Ec_9qfwAnlr5PHDa3WoTklE-qFwwUcyzr0NwN-_GoMqTg">Website Link</a>
+        Visit my website: <a href="https://github.com/sonjoe123/Search-Engine">Website Link</a>
       </div>
     ),
   },
@@ -68,7 +68,7 @@ export const Projects = () => {
         This project allows users to manage university staff data using SQL databases. Users can add, remove, and check staff records, as well as manage courses and departments.
         <br />
         <br />
-        Visit my website: <a href="https://master.d3bzjn1cpskicc.amplifyapp.com/?fbclid=IwAR2DX_oB35pdd3Ec_9qfwAnlr5PHDa3WoTklE-qFwwUcyzr0NwN-_GoMqTg">Website Link</a>
+        Visit my website: <a href="https://github.com/sonjoe123/StaffAddingUniversity">Website Link</a>
       </div>
     ),
   },
@@ -92,7 +92,7 @@ export const Projects = () => {
         InstaJob Agency serves as an intermediary platform connecting job seekers with employers seamlessly. It functions as a third-party software, facilitating the automatic matching of job opportunities with professionals based on their skills and preferences. Additionally, it provides tools for managing job applications efficiently, streamlining the hiring process for both employers and job seekers.
         <br />
         <br />
-        Visit my website: <a href="https://master.d3bzjn1cpskicc.amplifyapp.com/?fbclid=IwAR2DX_oB35pdd3Ec_9qfwAnlr5PHDa3WoTklE-qFwwUcyzr0NwN-_GoMqTg">Website Link</a>
+        Visit my website: <a href="https://github.com/sonjoe123/InstaJob-Agency">Website Link</a>
       </div>
     ),
   },
